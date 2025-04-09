@@ -1,8 +1,3 @@
-# Weather-Data-Analysis
-Here’s a GitHub-style README file based on your `weather_data_analysis.py` script and dataset:
-
----
-
 ## 🌦️ Weather Data Analysis
 
 This project focuses on analyzing and modeling weather data to extract meaningful insights and predict rainfall using machine learning techniques. It includes data exploration, visualization, feature engineering, and a simple linear regression model.
